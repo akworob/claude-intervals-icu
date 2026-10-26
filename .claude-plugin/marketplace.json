@@ -1,0 +1,13 @@
+{
+  "name": "claude-intervals-icu",
+  "owner": { "name": "Marek Borówka" },
+  "description": "Claude Code + intervals.icu: panel formy /forma i serwer MCP z danymi treningowymi",
+  "plugins": [
+    {
+      "name": "intervals-form",
+      "source": "./",
+      "description": "Panel formy (CTL/ATL/TSB), dzisiejszy trening i ostatnia jazda z intervals.icu, plus serwer MCP intervals.icu dla Claude",
+      "version": "0.2.0"
+    }
+  ]
+}

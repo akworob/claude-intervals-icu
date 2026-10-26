@@ -1,0 +1,9 @@
+{
+  "name": "intervals-form",
+  "version": "0.2.0",
+  "description": "intervals.icu for Claude Code: a pane with fitness, fatigue and form (CTL/ATL/TSB), today's planned workout and the last ride (/forma), plus the intervals.icu MCP server",
+  "author": { "name": "Marek Borówka" },
+  "license": "MIT",
+  "repository": "https://github.com/akworob/claude-intervals-icu",
+  "types": "./types/index.d.ts"
+}

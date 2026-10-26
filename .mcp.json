@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "intervals-icu": {
+      "command": "sh",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/scripts/run-mcp.sh"]
+    }
+  }
+}
